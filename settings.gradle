@@ -1,0 +1,6 @@
+
+rootProject.name = "Reto BCP"
+include ':app'
+include ':core'
+include ':base'
+include ':base_ui'

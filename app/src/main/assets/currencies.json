@@ -1,0 +1,81 @@
+[{
+  "name": "United Kingdom",
+  "currency": {
+    "code": "GBP",
+    "name": "Pound",
+    "symbol": "£"
+  },
+  "flag": "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Freino-unido.png?alt=media&token=5428d5e0-3630-46d3-914f-f6b12ecc0c04"
+}, {
+  "name": "United States",
+  "currency": {
+    "code": "USD",
+    "name": "Dollar",
+    "symbol": "$"
+  },
+  "flag": "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Festados-unidos.png?alt=media&token=23e2d553-f4da-4e82-962c-2d12971d2771"
+},
+  {
+    "name": "Japan",
+    "currency": {
+      "code": "JPY",
+      "name": "Yen",
+      "symbol": "¥"
+    },
+    "flag" : "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Fjapon.png?alt=media&token=0eb9b632-be7d-4497-9bc6-15fb16509cd6"
+  },
+  {
+    "name": "Switzerland",
+    "currency": {
+      "code": "CHF",
+      "name": "Franc",
+      "symbol": "CHF"
+    },
+    "flag" : "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Fsuiza.png?alt=media&token=8f64b5dd-d2fe-4b62-85cf-c8525862c941"
+  },
+  {
+    "name": "Canada",
+    "currency": {
+      "code": "CAD",
+      "name": "Dollar",
+      "symbol": "$"
+    },
+    "flag" : "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Fcanada.png?alt=media&token=3b81a19c-5008-4d61-a192-e79de1affff9"
+  },
+  {
+    "name": "Brazil",
+    "currency": {
+      "code": "BRL",
+      "name": "Real",
+      "symbol": "R$"
+    },
+    "flag" : "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Fbrasil.png?alt=media&token=491cfae9-ff4d-4cb3-abf8-edfbde336775"
+  },
+  {
+    "name": "Argentina",
+    "currency": {
+      "code": "ARS",
+      "name": "Peso",
+      "symbol": "$"
+    },
+    "flag" : "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Fargentina.png?alt=media&token=e3fa2cb0-0a84-4596-9a01-db0a7cf3d5c1"
+  },
+  {
+    "name": "Chile",
+    "currency": {
+      "code": "CLP",
+      "name": "Peso",
+      "symbol": "$"
+    },
+    "flag" : "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Fchile.png?alt=media&token=f67b2a61-e3a2-464d-887b-125dc0251827"
+  },
+  {
+    "name": "Peru",
+    "currency": {
+      "code": "PEN",
+      "name": "Sol",
+      "symbol": "S/."
+    },
+    "flag" : "https://firebasestorage.googleapis.com/v0/b/mi-trueque.appspot.com/o/flag_countries%2Fperu.png?alt=media&token=9702972d-fd47-4147-93cd-68a0437f1da4"
+  }
+]
