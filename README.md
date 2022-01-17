@@ -1,3 +1,3 @@
 # RetoBCP
 
-![video](visuales_github/retobcp.gif) 
+![video](visuales_github/ddd.gif) 
